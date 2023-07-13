@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
-  s.name = %q{omniauth-kakao2}
+  s.name = "omniauth-kakao"
   s.version = "0.1.0"
   s.authors = ["yesjin"]
   s.email = ["yesjin_nav@naver.com"]
   s.date = %q{2019-03-25}
-  s.summary = %q{omniauth-kakao2}
+  s.summary = "Omniauth for Kakao"
   s.files = [
     "lib/omniauth-kakao2.rb"
   ]
