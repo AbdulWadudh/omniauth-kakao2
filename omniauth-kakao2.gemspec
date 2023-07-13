@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = "omniauth-kakao"
+  s.name = "omniauth2-kakao"
   s.version = "0.1.0"
   s.authors = ["yesjin"]
   s.email = ["yesjin_nav@naver.com"]
